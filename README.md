@@ -1,5 +1,6 @@
 # AIAgent-MCP: Agentic AI App with MCP and OpenAPI Integration
 
+## Additional details about this POC is provided in this [blog](https://medium.com/beyond-the-buzz-highlighting-the-impact-of-ai-in/the-lazy-devs-guide-to-building-a-local-ai-agent-that-actually-works-30e7f3aee140). ##
 This project demonstrates a lightweight agentic AI system powered by a quantized `gemma3:12b` model running on Ollama, with tool integration via the MCP server. The goal is to test tool-augmented reasoning like fetching current time, summarizing articles, or retrieving the latest AI news.
 
 ---
